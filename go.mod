@@ -1,3 +1,3 @@
-module hello-World
+module application
 
 go 1.14
